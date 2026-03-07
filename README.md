@@ -26,6 +26,8 @@ I build high-end animated websites and AI automation systems.
 
 Founder of **[WeSpark Automations](https://wespark.tech)** — an AI automation agency specializing in voice agents, workflow automation, and intelligent business systems using n8n, Go High Level, Make.com, and Zapier. I've built dozens of voice agents and automation pipelines for clients.
 
+I also set up **Claude Code** and **OpenClaw** across the entire company — AI-assisted development tooling that supercharges how our team ships code and handles engineering workflows.
+
 On the frontend side, 30+ production websites shipped with scroll-driven animations, smooth scrolling, parallax, text reveals, and page transitions. I packaged all of it into **[wespark-frontend](https://github.com/abdulmohiz01/wespark-frontend)** — an open source React component library on npm.
 
 </td>
@@ -40,6 +42,7 @@ On the frontend side, 30+ production websites shipped with scroll-driven animati
 | **Frontend** | React, Next.js, TypeScript, GSAP |
 | **Automation** | n8n, Make.com, Go High Level, Zapier |
 | **AI** | Voice Agents, Chatbots, Workflows |
+| **AI Dev Tools** | Claude Code, OpenClaw |
 | **Backend** | Node.js, PostgreSQL, GraphQL |
 | **Library** | [`wespark-frontend`](https://npmjs.com/package/wespark-frontend) on npm |
 | **Hire** | [Upwork](https://www.upwork.com/freelancers/~01939710390bbdfe41) · [wespark.tech](https://wespark.tech) |
@@ -115,6 +118,8 @@ Go High Level
 <br>
 Voice Agents · AI Chatbots
 <br>
+Claude Code · OpenClaw
+<br>
 Workflow Automation
 <br>
 Python · CUDA
@@ -141,13 +146,15 @@ Python · CUDA
 </a>
 </p>
 
-AI Automation Agency. I build voice agents, chatbots, and end-to-end workflow automations for businesses. Expertise in n8n, Go High Level, Make.com, and Zapier.
+AI Automation Agency. I build voice agents, chatbots, and end-to-end workflow automations for businesses. Set up Claude Code and OpenClaw across the company for AI-assisted development.
 
 <p align="center">
 <img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71" />
 <img src="https://img.shields.io/badge/Make.com-0d1117?style=flat-square&logo=make&logoColor=6d00cc" />
 <img src="https://img.shields.io/badge/Zapier-0d1117?style=flat-square&logo=zapier&logoColor=ff4a00" />
 <img src="https://img.shields.io/badge/GoHighLevel-0d1117?style=flat-square&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=d4a574" />
+<img src="https://img.shields.io/badge/OpenClaw-0d1117?style=flat-square&logo=openai&logoColor=ffffff" />
 </p>
 
 </td>
