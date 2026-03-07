@@ -139,15 +139,11 @@ Python · CUDA
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdulmohiz01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmohiz01&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=abdulmohiz01&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e" width="49%" />
 
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmohiz01&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" width="32%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmohiz01&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&area_color=ff6b6b&hide_border=true" width="95%"/>
 
 </div>
 
