@@ -142,17 +142,18 @@ Python · CUDA
 
 <p align="center">
 <a href="https://wespark.tech">
-<img src="https://img.shields.io/badge/wespark.tech-Visit%20Site-ff6b6b?style=for-the-badge&labelColor=0d1117" width="100%"/>
+<img src="https://img.shields.io/badge/wespark.tech-Visit%20Site-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 </a>
 </p>
 
-AI Automation Agency. I build voice agents, chatbots, and end-to-end workflow automations for businesses. Set up Claude Code and OpenClaw across the company for AI-assisted development.
+AI Automation Agency. Voice agents, chatbots, and end-to-end workflow automations for businesses. Set up Claude Code and OpenClaw across the company for AI-assisted development.
 
 <p align="center">
 <img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71" />
 <img src="https://img.shields.io/badge/Make.com-0d1117?style=flat-square&logo=make&logoColor=6d00cc" />
 <img src="https://img.shields.io/badge/Zapier-0d1117?style=flat-square&logo=zapier&logoColor=ff4a00" />
 <img src="https://img.shields.io/badge/GoHighLevel-0d1117?style=flat-square&logoColor=ffffff" />
+<br>
 <img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=d4a574" />
 <img src="https://img.shields.io/badge/OpenClaw-0d1117?style=flat-square&logo=openai&logoColor=ffffff" />
 </p>
@@ -168,7 +169,7 @@ AI Automation Agency. I build voice agents, chatbots, and end-to-end workflow au
 </a>
 </p>
 
-React component library for building portfolio & agency websites. 10 pre-styled animated components + 6 headless hooks. Built on GSAP, Lenis, and split-type. Published on npm.
+React component library for portfolio & agency websites. 10 animated components + 6 hooks. Built on GSAP, Lenis, and split-type. Published on npm.
 
 ```bash
 npm install wespark-frontend
@@ -182,6 +183,8 @@ npm install wespark-frontend
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">Portfolio Chatbot</h3>
@@ -192,7 +195,7 @@ npm install wespark-frontend
 </a>
 </p>
 
-AI-powered chatbot that plugs into portfolio websites. Built with TypeScript, handles visitor questions about skills, projects, and availability.
+AI-powered chatbot for portfolio websites. Handles visitor questions about skills, projects, and availability.
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" />
@@ -200,8 +203,6 @@ AI-powered chatbot that plugs into portfolio websites. Built with TypeScript, ha
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">shinelabs</h3>
@@ -217,24 +218,6 @@ Full-stack TypeScript application with modern architecture.
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" />
 <img src="https://img.shields.io/badge/Full_Stack-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">nexus-encryption</h3>
-
-<p align="center">
-<a href="https://github.com/abdulmohiz01/nexus-encryption">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulmohiz01&repo=nexus-encryption&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=8b949e" width="100%"/>
-</a>
-</p>
-
-Encryption tooling for secure data handling.
-
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e" />
-<img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logo=letsencrypt&logoColor=ffffff" />
 </p>
 
 </td>
