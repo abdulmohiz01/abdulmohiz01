@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b6b&height=220&section=header&text=Abdul%20Mohiz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20AI%20Automation%20%C2%B7%20Open%20Source&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff6b6b&height=220&section=header&text=Abdul%20Mohiz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20Founder%20@WeSpark%20%C2%B7%20AI%20Automation&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <br>
 
+<a href="https://wespark.tech"><img src="https://img.shields.io/badge/wespark.tech-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
 <a href="https://www.upwork.com/freelancers/~01939710390bbdfe41"><img src="https://img.shields.io/badge/Available%20for%20Hire-00b22d?style=for-the-badge&labelColor=0d1117" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abdulmohiz01&style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=PROFILE+VIEWS" />
@@ -20,13 +22,11 @@
 
 ### About
 
-I build high-end animated websites and AI-powered tools.
+I build high-end animated websites and AI automation systems.
 
-30+ production websites shipped. Every one of them features scroll-driven animations, smooth scrolling, parallax, text reveals, and page transitions — the kind of work featured on Awwwards.
+Founder of **[WeSpark Automations](https://wespark.tech)** — an AI automation agency specializing in voice agents, workflow automation, and intelligent business systems using n8n, Go High Level, Make.com, and Zapier. I've built dozens of voice agents and automation pipelines for clients.
 
-I took the patterns I kept rebuilding across those projects and packaged them into **[wespark-frontend](https://github.com/abdulmohiz01/wespark-frontend)** — an open source React component library, published on npm.
-
-On the AI side, I build chatbots, automation pipelines, and intelligent workflow tools that solve real problems.
+On the frontend side, 30+ production websites shipped with scroll-driven animations, smooth scrolling, parallax, text reveals, and page transitions. I packaged all of it into **[wespark-frontend](https://github.com/abdulmohiz01/wespark-frontend)** — an open source React component library on npm.
 
 </td>
 <td width="45%" valign="top">
@@ -35,14 +35,14 @@ On the AI side, I build chatbots, automation pipelines, and intelligent workflow
 
 | | |
 |---|---|
-| **Focus** | Frontend, Motion Design, AI |
-| **Stack** | React, Next.js, TypeScript, GSAP |
-| **Animation** | Lenis, ScrollTrigger, split-type |
+| **Focus** | Frontend, AI Automation |
+| **Company** | [WeSpark Automations](https://wespark.tech) |
+| **Frontend** | React, Next.js, TypeScript, GSAP |
+| **Automation** | n8n, Make.com, Go High Level, Zapier |
+| **AI** | Voice Agents, Chatbots, Workflows |
 | **Backend** | Node.js, PostgreSQL, GraphQL |
-| **AI** | Python, CUDA, Chatbots, Scraping |
-| **Infra** | Vercel, Git, Shopify, Figma |
 | **Library** | [`wespark-frontend`](https://npmjs.com/package/wespark-frontend) on npm |
-| **Status** | Freelancing on Upwork |
+| **Hire** | [Upwork](https://www.upwork.com/freelancers/~01939710390bbdfe41) · [wespark.tech](https://wespark.tech) |
 
 </td>
 </tr>
@@ -109,13 +109,15 @@ Shopify Liquid
 
 **AI & Automation**
 <br><br>
-Python · CUDA
+n8n · Make.com · Zapier
 <br>
-AI Chatbots
+Go High Level
 <br>
-Web Scraping
+Voice Agents · AI Chatbots
 <br>
 Workflow Automation
+<br>
+Python · CUDA
 
 </td>
 </tr>
@@ -129,6 +131,26 @@ Workflow Automation
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<h3 align="center">WeSpark Automations</h3>
+
+<p align="center">
+<a href="https://wespark.tech">
+<img src="https://img.shields.io/badge/wespark.tech-Visit%20Site-ff6b6b?style=for-the-badge&labelColor=0d1117" width="100%"/>
+</a>
+</p>
+
+AI Automation Agency. I build voice agents, chatbots, and end-to-end workflow automations for businesses. Expertise in n8n, Go High Level, Make.com, and Zapier.
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71" />
+<img src="https://img.shields.io/badge/Make.com-0d1117?style=flat-square&logo=make&logoColor=6d00cc" />
+<img src="https://img.shields.io/badge/Zapier-0d1117?style=flat-square&logo=zapier&logoColor=ff4a00" />
+<img src="https://img.shields.io/badge/GoHighLevel-0d1117?style=flat-square&logoColor=ffffff" />
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 <h3 align="center">wespark-frontend</h3>
@@ -241,8 +263,12 @@ Encryption tooling for secure data handling.
 
 <br>
 
+<a href="https://wespark.tech">
+<img src="https://img.shields.io/badge/WeSpark%20Automations-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~01939710390bbdfe41">
-<img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hire%20on%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/abdulmohiz01">
@@ -252,8 +278,8 @@ Encryption tooling for secure data handling.
 <br><br>
 
 ```
+  Founder @ WeSpark Automations — AI voice agents & workflow automation.
   Open to freelance projects, collaborations, and full-time opportunities.
-  Specializing in animated web experiences and AI-powered applications.
 ```
 
 </div>
